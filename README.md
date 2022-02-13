@@ -12,8 +12,8 @@ $ pip2 install mechanize
 
 $ pip2 install bs4
 
-$ git clone https://github.com/hackeboss/fb-brute.git
+$ git clone https://github.com/hackeboss/fb-brute
 
 $ cd fb-brute
 
-$ python2 fb-brute.py
+$ python2 fb-brute
